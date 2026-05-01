@@ -38,7 +38,7 @@ practice daily, and document everything publicly**.
 ---
 
 ## 📚 Topics Covered
-
+[x] Introduction to SQL
 *Updating this list as I progress through each topic.*
 
 ---
