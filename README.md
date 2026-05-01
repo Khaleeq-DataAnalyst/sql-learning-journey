@@ -61,7 +61,7 @@ improvements!
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/khaleeq-data-analyst/
+- **LinkedIn:** https://www.linkedin.com/in/khaleeq-dSata-analyst/
 - **Email:** khaleeq.dataanalyst@gmail.com
 - **GitHub:** [@Khaleeq-DataAnalyst](https://github.com/Khaleeq-DataAnalyst)
 
